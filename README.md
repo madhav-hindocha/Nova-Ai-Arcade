@@ -8,7 +8,7 @@ Designed with rich visual aesthetics, smooth animations, sound effects, and a se
 
 ## 🎮 Play Now (One Click)
 
-**▶️ [Play in your browser](https://YOUR_USERNAME.github.io/Game/)** — no install needed.
+**▶️ [Play in your browser](https://YOUR_USERNAME.github.io/Nova-Ai-Arcade/)** — no install needed.
 
 > Replace `YOUR_USERNAME` with your GitHub username once the repo is published. The site auto-deploys on every push via GitHub Actions.
 
